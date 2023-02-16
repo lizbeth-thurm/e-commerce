@@ -22,12 +22,12 @@
 
   [Video Showing Functionality](https://youtu.be/9cm058OqMak)
 
-  [GitHub Repository](https://github.com/skip-thurm/e-commerce)
+  [GitHub Repository](https://github.com/lizbeth-thurm/e-commerce)
 
   ## Questions
   GitHub:
 
-  [skip-thurm](https://github.com/skip-thurm)
+  [lizbeth-thurm](https://github.com/lizbeth-thurm)
 
   You can reach me with any questions at:
   
